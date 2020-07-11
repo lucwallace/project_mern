@@ -1,0 +1,3 @@
+{
+    "mongoURI": "mongodb+srv://lucas:1424@cluster0-frixl.mongodb.net/projeto_mern?retryWrites=true&w=majority"
+}
